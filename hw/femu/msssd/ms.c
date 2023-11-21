@@ -114,4 +114,4 @@ int nvme_register_bbssd(FemuCtrl *n)
     return 0;
 }
 
-// reset from mac branch main?
+// test from js
